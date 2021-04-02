@@ -45,6 +45,16 @@ Bellow will be shown algorithm basics:
 
 * [Stack](stacl.py)
 
+* [Recursion](recursion.py)
+
+* [Countdown](cuountdown.py)
+
+* []()
+
+
+
+
+
 Data structures: <br>
 
 Arrays : Collection of elements identified by index or key <br>
@@ -55,7 +65,11 @@ Stack: Stack is a collection which supports push and pop operations <br>
 
 Queues: collection that supports adding and removing <br>
 
-Hash tables:
- 
+Hash(or we can call a dictionary) tables: is a data structure in which the address or the index value of the data element is generated from a hash function <br>
+
+Recursion:  [Recursion](recursion.py) is when function calls itself <br>
+
+
+
 
 
