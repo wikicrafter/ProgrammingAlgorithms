@@ -49,7 +49,7 @@ Bellow will be shown algorithm basics:
 
 * [Countdown](cuountdown.py)
 
-* []()
+
 
 
 
@@ -73,3 +73,18 @@ Recursion:  [Recursion](recursion.py) is when function calls itself <br>
 
 
 
+Data sorting: <br>
+* [The Bubble Sort](bubblesort.py)
+* [The Merge Sort](mergesort.py)
+* [The Quick Sort](quicksort.py)
+
+Searching data: <br>
+
+* [Issorted](issorted.py)
+* [Unordered](unordered.py)
+* [Ordered](ordered.py)
+
+Other algorithms: <br>
+* [Filter](Filter.py)
+* [Findmax](findmax.py)
+* [Value Counter](ValueCounter.py)
