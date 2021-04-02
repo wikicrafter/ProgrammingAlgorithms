@@ -40,3 +40,14 @@ Bellow will be shown algorithm basics:
 
 * [Hashtable](hashtable.py)
 
+* [Linkedlist](linkedlist.py)
+
+Data structures: <br>
+
+Arrays : Collection of elements identified by index or key <br>
+
+Linked Lists: Collection of data elements, called nodes <br>
+
+ 
+
+
