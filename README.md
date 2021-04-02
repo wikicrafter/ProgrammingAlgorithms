@@ -20,8 +20,7 @@ We use that to find specific data in a structure
 * Sorting Algorithms <br>
 That one is used to take a dataset and apply a sort order to it
 
-* Computetional Algorithms 
-
+* Computetional Algorithms <br>
 Given one set of data, calculate another
 
 * Collection algorithms <br>
@@ -42,12 +41,21 @@ Bellow will be shown algorithm basics:
 
 * [Linkedlist](linklist.py)
 
+* [Queue](queue.py)
+
+* [Stack](stacl.py)
+
 Data structures: <br>
 
 Arrays : Collection of elements identified by index or key <br>
 
 Linked Lists: Collection of data elements, called nodes <br>
 
+Stack: Stack is a collection which supports push and pop operations <br>
+
+Queues: collection that supports adding and removing <br>
+
+Hash tables:
  
 
 
