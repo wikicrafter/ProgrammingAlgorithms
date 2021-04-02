@@ -4,7 +4,7 @@ In this repository I'm gonna share my learned skills about programming foundatio
 * Before using this repository you gonna have basic understanding about programming. Like: how to use functions, declaring variables etc.
 
 You should be familiar with using text editor to write and debug code. It doesn't matter which editor you would like to use.
-I recommend to use VSCode it's free, opensource and doing his job.
+I recommend to use VSCode it's free, opensource and doing its job.
 
 In this repository we gonna use  Python language.
 
@@ -88,3 +88,6 @@ Other algorithms: <br>
 * [Filter](Filter.py)
 * [Findmax](findmax.py)
 * [Value Counter](ValueCounter.py)
+
+---
+
