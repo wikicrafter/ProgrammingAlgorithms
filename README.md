@@ -47,7 +47,7 @@ Bellow will be shown algorithm basics:
 
 * [Recursion](recursion.py)
 
-* [Countdown](cuountdown.py)
+* [Countdown](countdown.py)
 
 
 
