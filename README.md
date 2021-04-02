@@ -14,10 +14,10 @@ Okay, I think prerequisite is enough now let's talk about algorithms:
 
 # Common Algorithms
 
-* Searching Algorithms <\n>
+* Searching Algorithms <br>
 We use that to find specific data in a structure
  
-* Sorting Algorithms <\n>
+* Sorting Algorithms <br>
 That one is used to take a dataset and apply a sort order to it
 
 * Computetional Algorithms 
