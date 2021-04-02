@@ -40,7 +40,7 @@ Bellow will be shown algorithm basics:
 
 * [Hashtable](hashtable.py)
 
-* [Linkedlist](linkedlist.py)
+* [Linkedlist](linklist.py)
 
 Data structures: <br>
 
