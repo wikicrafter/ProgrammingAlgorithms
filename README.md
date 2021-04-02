@@ -43,7 +43,7 @@ Bellow will be shown algorithm basics:
 
 * [Queue](queue.py)
 
-* [Stack](stacl.py)
+* [Stack](stack.py)
 
 * [Recursion](recursion.py)
 
