@@ -24,12 +24,19 @@ That one is used to take a dataset and apply a sort order to it
 
 Given one set of data, calculate another
 
-* Collection algorithms
-
+* Collection algorithms <br>
 Work with collections of data 
+
+# To work with algorithms you must to know whcih data structures to use. For instance:
+1. Arrays
+2. Linked List
+3. Trees
+4. Stack and queues
+5. Hash tables
 
 Bellow will be shown algorithm basics:
 
 * [Euclid's Algorithm](gcd.py)
 
+* [Hashtable](hashtable.py)
 
